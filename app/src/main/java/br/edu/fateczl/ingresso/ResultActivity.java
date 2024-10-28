@@ -12,7 +12,9 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class ResultActivity extends AppCompatActivity {
-
+    /*
+     *@author: Kelvin Santos Guimarães
+     */
     private TextView tvDetalhesIngresso;
     private Button btnVoltar;
 
