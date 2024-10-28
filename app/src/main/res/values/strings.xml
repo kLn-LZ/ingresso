@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ingresso</string>
+    <string name="id">Número identificador</string>
+    <string name="ingressoComum">Valor do Ingresso Comum</string>
+    <string name="Conveniencia">Taxa de Conveniência</string>
+    <string name="btnCalc">Calcular Ingresso Comum</string>
+    <string name="rbVIP">Ingresso VIP</string>
+    <string name="rbComum">Ingresso Comum</string>
+</resources>
