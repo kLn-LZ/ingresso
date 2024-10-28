@@ -18,6 +18,10 @@ import br.edu.fateczl.ingresso.Model.IngressoVIP;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+     *@author: Kelvin Santos Guimarães
+     */
+
     private EditText etCodigoIdentificador, etValorIngresso, etTaxaConveniencia;
     private RadioGroup rgTipoIngresso;
     private RadioButton rbIngressoComum, rbIngressoVIP;

@@ -8,6 +8,16 @@
     tools:context=".ResultActivity">
 
     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="16dp"
+        android:text="KELVIN SANTOS GUIMARAES - RA:	1110482313029"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
         android:id="@+id/tvDetalhesIngresso"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
